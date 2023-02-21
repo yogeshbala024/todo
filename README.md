@@ -1,4 +1,9 @@
+Todo web application built using angular and Java springboot on the backend. used H2 database to store the data and access it. Rest api's for the front end - backend communication. session storage of auth cookies through angular.
+
+
 # Todo
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
